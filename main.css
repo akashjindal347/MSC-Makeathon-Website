@@ -51,15 +51,17 @@
 }
 .list-card{
    
-    color: black;
+    color: white;
     max-width: 420px;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    border: none;
     display: block;
     margin: auto;
     max-height: 700px;
     height: 500px;
     padding: auto;
     margin-bottom: 50px;
+    background: none;
+    text-align: center;
 }
 .android{
    padding-bottom: 50px;
