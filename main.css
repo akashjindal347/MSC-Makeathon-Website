@@ -10,6 +10,33 @@
     padding-top: 10px;
    
 }
+.tracks{
+    text-align: center;
+   padding-bottom: 50px;
+    font-size: 50px;
+}
+.tracks-img{
+    width: 40%;
+    display: block;
+    margin: auto;
+    border-radius: 2%;
+    opacity: 100%;
+    margin-top: 20px;
+}
+.track-des{
+    text-align: center;
+    margin-top: 30px;
+}
+.track-card{
+    display: block;
+    margin: auto;
+    max-width: 250px;
+   height: 250px;
+    opacity: 0.5;
+    margin-bottom: 40px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    
+}
 .img-and, .img-azure, .img-django{
     max-width: 50%;
     display: block;
