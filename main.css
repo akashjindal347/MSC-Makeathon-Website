@@ -11,6 +11,36 @@
     padding: auto;
    
 }
+.schedule-head{
+  font-family: 'Major Mono Display', monospace;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.schedule-card{
+    background: none;
+    border: none;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.schedule{
+   width: 400px;
+    height: 40px;
+    color: black;
+    display: block;
+    margin: auto;
+    padding-top: 1px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    opacity: 0.75;
+    
+}
+.prizes{
+    background-color: white; 
+    margin-bottom: 0px;
+}
 .tracks{
     text-align: center;
    padding-bottom: 50px;
