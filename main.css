@@ -6,8 +6,9 @@
     font-family: 'Major Mono Display', monospace;
     font-weight: lighter;
     text-align: center;
-    font-size: 45px;
+    font-size: 40px;
     padding-top: 10px;
+    padding: auto;
    
 }
 .tracks{
