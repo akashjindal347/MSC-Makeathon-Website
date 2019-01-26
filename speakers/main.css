@@ -1,8 +1,9 @@
 .speakers{
-     background: #13191E url("../assets/img/pattern.svg") top left/auto repeat;
+     background-color: #13191E;
 }
 .speaker_card{
-    background-color: #13191E;
+    
+     background: #13191E url("../assets/img/pattern.svg") top left/auto repeat;
     display: block;
     margin: auto;
     max-width: 900px;
